@@ -4,6 +4,3 @@
 4. login register logout *
 5. Favori sayfası ve favorilerim
 
-#özel algoritmalar arama algoritmaları ve sıralama algoritmaları 
-#Terminal kullanımı 
-#Donanım konuları
