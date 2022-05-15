@@ -1,0 +1,17 @@
+{% extends "homebase.html" %}
+{% block slider %}
+
+        <form class="text-center"  method="POST">
+            {% csrf_token %}
+            <h3>Lütfen Giriş Yapınız</h3>
+         
+                {{form}}
+           
+        <br>
+            <button type="submit" class="btn btn-lg btn-success">
+                Giriş Yap
+            </button>
+        </form>
+ 
+<!--**hero image-->
+{% endblock slider %}
